@@ -4,7 +4,7 @@
 -----
 This is the official code release of the 2026 [TBD] paper BackProjCT : Bi-Planar X-ray to CT Reconstruction with Back Projection Driven 3D Attention Mapping. In the original paper, we present a novel framework for reconstructing volumetric CT images from bi-planar X-rays, addressing the challenge of spatial ambiguity inherent in limited 2D projections. Our approach integrates differentiable back projection for coarse volumetric initialization, attention-guided 2D-to-3D feature mapping, and transformer-based 3D bottleneck refinement. This design enables anatomically accurate, perceptually realistic CT reconstructions while maintaining computational efficiency. On the LIDC dataset, our model achieves state-of-the-art performance, including a PSNR of 26.95 dB and the lowest LPIPS of 0.1080, surpassing GAN- and diffusion-based baselines. The proposed method demonstrates strong potential for low-dose, real-time CT imaging applications in clinical practice.
 
-![Image](https://github.com/user-attachments/assets/acb90ffd-cc0c-42d6-ab33-d57c51551d88)
+![Image](https://github.com/user-attachments/assets/921372f9-d784-4f3f-b0a6-346bfee9c790)
 
 ### License
 This work is released under the GPLv3 license (refer to the LICENSE file for more details).
