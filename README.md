@@ -50,7 +50,7 @@ This work is released under the GPLv3 license (refer to the LICENSE file for mor
 ----
 Qualitative results from our original paper. <br>
 
-![Image](https://github.com/user-attachments/assets/f013ea70-16d5-46c1-b0ce-569a32d8abc8)
+![Image](https://github.com/user-attachments/assets/595ea15e-62f1-47f8-befc-835f9da40021)
 ![Image](https://github.com/user-attachments/assets/7d4c92f6-8b46-477b-a898-3a12347d73f3)
 
 ## Acknowledgement
